@@ -1,0 +1,8 @@
+{
+    "name": "PSE - De. en C",
+
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "remoteUser": "pse"
+}
